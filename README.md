@@ -1,6 +1,17 @@
-# 💫 About Me:
-👋 Hi, I'm Adem Ksibi 
-I'm passionate about Artificial Intelligence and Data Science. I’m also interested in full-stack web development as a way to prototype and deploy innovative, data-driven solutions. I enjoy working with machine learning models, data pipelines, and modern web technologies to turn ideas into real-world applications.
+## 💫 About Me
+
+👋 Hi, I'm **Adem Ksibi**  
+I'm passionate about **Artificial Intelligence** and **Data Science**, and I’m also interested in **full-stack web development** as a way to prototype and deploy intelligent, data-driven solutions.
+
+I enjoy working with:
+- 🧠 Machine Learning models  
+- 🔄 Data pipelines  
+- 🌐 Modern web technologies  
+
+Whether it's analyzing complex data or creating scalable web platforms, I love transforming ideas into impactful real-world applications.
+
+**Always learning. Always building.**
+
 
 
 ## 🌐 Socials:
