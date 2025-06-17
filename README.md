@@ -13,7 +13,7 @@ Passionate about building intelligent systems, I specialize in turning data insi
 - Optimizing MLOps workflows for faster deployment.  
 
 ## 📫 Let's Connect  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/adem-ksibi-bba413215/)  
+- LinkedIn: [Adem Ksibi](https://www.linkedin.com/in/adem-ksibi-bba413215/)  
 - Email: ademksibi2001@gmail.com  
 
 *"Turning data into solutions, one algorithm at a time."*  
