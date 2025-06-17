@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adem Ksibi  
+# 👋 Hi, I'm Ksibi Adem  
 **AI & Data Science Engineer | Full-Stack Developer**  
 
 Passionate about building intelligent systems, I specialize in turning data insights into functional applications. My expertise spans machine learning, scalable software development, and seamless integration between models and user-facing solutions.  
